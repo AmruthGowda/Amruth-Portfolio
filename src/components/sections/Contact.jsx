@@ -21,7 +21,7 @@ export const Contact = () => {
 
     return <section id="contact" className="min-h-screen flex justify-center items-center py-20">
         <ReavealonScroll>
-            <div className="md:w-150 sm:w-sm px-4 ">
+            <div className="md:w-150 w-100 px-4 ">
                 <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r 
                 from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center">
                     Get In Touch
